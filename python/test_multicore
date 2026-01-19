@@ -1,0 +1,64 @@
+Testing with 1 processes...
+
+N-Body Simulation [multiprocessing (1 processes)]: 1000 particles, 100 steps
+Initial energy: 7.312448e+30 J
+
+Step    0: Energy = 7.312448e+30 J | Time = 4.71s
+
+Simulation complete!
+Total time: 385.296 seconds
+Time per step: 3.852957 seconds
+Final energy: 7.312448e+30 J
+Performance: 2.593e+05 interactions/second
+
+Testing with 2 processes...
+
+N-Body Simulation [multiprocessing (2 processes)]: 1000 particles, 100 steps
+Initial energy: 7.312448e+30 J
+
+Step    0: Energy = 7.312448e+30 J | Time = 3.30s
+
+Simulation complete!
+Total time: 207.488 seconds
+Time per step: 2.074885 seconds
+Final energy: 7.312448e+30 J
+Performance: 4.815e+05 interactions/second
+
+Testing with 4 processes...
+
+N-Body Simulation [multiprocessing (4 processes)]: 1000 particles, 100 steps
+Initial energy: 7.312448e+30 J
+
+Step    0: Energy = 7.312448e+30 J | Time = 2.78s
+
+Simulation complete!
+Total time: 142.678 seconds
+Time per step: 1.426784 seconds
+Final energy: 7.312448e+30 J
+Performance: 7.002e+05 interactions/second
+
+Testing with 8 processes...
+
+N-Body Simulation [multiprocessing (8 processes)]: 1000 particles, 100 steps
+Initial energy: 7.312448e+30 J
+
+Step    0: Energy = 7.312448e+30 J | Time = 3.00s
+
+Simulation complete!
+Total time: 98.376 seconds
+Time per step: 0.983761 seconds
+Final energy: 7.312448e+30 J
+Performance: 1.015e+06 interactions/second
+
+Testing with 12 processes...
+
+N-Body Simulation [multiprocessing (12 processes)]: 1000 particles, 100 steps
+Initial energy: 7.312448e+30 J
+
+Step    0: Energy = 7.312448e+30 J | Time = 3.30s
+
+Simulation complete!
+Total time: 87.737 seconds
+Time per step: 0.877368 seconds
+Final energy: 7.312448e+30 J
+Performance: 1.139e+06 interactions/second
